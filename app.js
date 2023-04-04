@@ -113,3 +113,18 @@
 // for (let i = 0; i < 10; i++){
 //     console.log(i);
 // }
+
+// ----------関数の学習----------
+
+// let alertString;
+
+// alertString = addString("Webcamp");
+
+// alert(alertString);
+
+// function addString(strA){
+//     let addStr = "Hello" + strA;
+//     return addStr;
+// }
+
+
